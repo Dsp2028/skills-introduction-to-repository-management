@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Dsp2028
+/src/backend/database.py      @Dsp2028
+/src/backend/routers/auth.py  @Dsp2028
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Dsp2028
